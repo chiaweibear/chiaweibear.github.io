@@ -3,6 +3,6 @@ layout: single
 title: "About Me"
 author_profile: true
 ---
-Write about yourself here...
+I'm an academic researcher specializing in XYZ. I have published research on ABC and have experience with...
 
 

@@ -1,4 +1,4 @@
-title: "Your Name's Academic Website"
+title: "Chia-Wei (Joe) Hsu's Academic Website"
 description: "A personal academic website for showcasing research, CV, and publications."
 
 # Base URL settings
@@ -7,12 +7,12 @@ url: "https://your-username.github.io" # Change when you upload
 
 # Author information
 author:
-  name: "Your Name"
-  email: "your.email@example.com"
+  name: "Chia-Wei (Joe) Hsu"
+  email: "chawei0207@tmau.edu"
 
 # Social media links
 social:
-  github: "your-github-username"
+  github: "chiaweibear"
   linkedin: "your-linkedin-username"
 
 # Enable Minimal Mistakes Theme
@@ -26,4 +26,10 @@ header_pages:
   - about.md
   - cv.md
   - publications.md
+
+navigation:
+  - enabled: true
+
+sidebar:
+  nav: "main"
 

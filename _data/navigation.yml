@@ -1,14 +1,15 @@
 main:
   - title: "Home"
-    url: "{{ site.baseurl }}/"
+    url: "/"
 
   - title: "About Me"
-    url: "{{ site.baseurl }}/about/"
+    url: "/about/"
 
   - title: "Curriculum Vitae"
-    url: "{{ site.baseurl }}/cv/"
+    url: "/cv/"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/publications/"
+    url: "/publications/"
+
 
 

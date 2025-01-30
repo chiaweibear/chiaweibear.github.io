@@ -1,0 +1,29 @@
+title: "Your Name's Academic Website"
+description: "A personal academic website for showcasing research, CV, and publications."
+
+# Base URL settings
+baseurl: "" # Leave blank for now
+url: "https://your-username.github.io" # Change when you upload
+
+# Author information
+author:
+  name: "Your Name"
+  email: "your.email@example.com"
+
+# Social media links
+social:
+  github: "your-github-username"
+  linkedin: "your-linkedin-username"
+
+# Enable Minimal Mistakes Theme
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+# Site navigation (Menu)
+header_pages:
+  - index.md
+  - about.md
+  - cv.md
+  - publications.md
+

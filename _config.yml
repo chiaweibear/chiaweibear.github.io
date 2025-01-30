@@ -3,12 +3,12 @@ description: "A personal academic website for showcasing research, CV, and publi
 
 # Base URL settings
 baseurl: "" # Leave blank for now
-url: "https://your-username.github.io" # Change when you upload
+url: "https://chiaweibear.github.io" # Change when you upload
 
 # Author information
 author:
   name: "Chia-Wei (Joe) Hsu"
-  email: "chawei0207@tmau.edu"
+  email: "chawei0207@tamu.edu"
 
 # Social media links
 social:

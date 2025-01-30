@@ -2,7 +2,7 @@ title: "Chia-Wei (Joe) Hsu's Academic Website"
 description: "A personal academic website for showcasing research, CV, and publications."
 
 # Base URL settings
-baseurl: "" # Leave blank for now
+baseurl: "https://chiaweibear.github.io" # Leave blank for now
 url: "https://chiaweibear.github.io" # Change when you upload
 
 # Author information
